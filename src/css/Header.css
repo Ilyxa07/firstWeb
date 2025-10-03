@@ -1,0 +1,50 @@
+.header__container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1900px;
+    height: 90px;
+    background-color: #4520AB;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.button__header__one{
+font-family: IBM Plex Mono;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 21px;
+line-height: 100%;
+letter-spacing: -1%;
+text-transform: uppercase;
+border: none;
+background: none;
+color: hsla(0, 0%, 100%, 0.417);
+}
+
+.button__header__two{
+font-family: IBM Plex Mono;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 21px;
+line-height: 100%;
+letter-spacing: -1%;
+text-transform: uppercase;
+border: none;
+background: none;
+color: hsla(0, 0%, 100%, 0.417);
+}
+
+.button__header__three{
+font-family: IBM Plex Mono;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 21px;
+line-height: 100%;
+letter-spacing: -1%;
+text-transform: uppercase;
+border: none;
+background: none;
+color: hsla(0, 0%, 100%, 0.417);
+}
